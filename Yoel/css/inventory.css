@@ -4,8 +4,8 @@
     height: 30%;
     width: 30%;
     background-color: rgb(255, 255, 255);
-    top:25%;
-    left:30%;
+    top:65%;
+    left:1%;
 }
 
 .inventoryTitle{
@@ -189,3 +189,176 @@
     top:64%;
     left:69%;
 }
+
+.slot1Image{
+    display: flex;
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    background-color: rgb(28, 34, 200);
+    
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+    
+    top:20%;
+    left:35%;
+}
+
+.slot2Image{
+    display: flex;
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    background-color: rgb(28, 34, 200);
+    
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+    
+    top:31%;
+    left:35%;
+}
+
+.slot3Image{
+    display: flex;
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    background-color: rgb(28, 34, 200);
+    
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+    
+    top:42%;
+    left:35%;
+}
+
+.slot4Image{
+    display: flex;
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    background-color: rgb(28, 34, 200);
+    
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+    
+    top:53%;
+    left:35%;
+}
+
+.slot5Image{
+    display: flex;
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    background-color: rgb(28, 34, 200);
+    
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+    
+    top:64%;
+    left:35%;
+}
+
+.slot6Image{
+    display: flex;
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    background-color: rgb(28, 34, 200);
+    
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+    
+    top:20%;
+    left:60%;
+}
+
+.slot7Image{
+    display: flex;
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    background-color: rgb(28, 34, 200);
+    
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+    
+    top:31%;
+    left:60%;
+}
+
+.slot8Image{
+    display: flex;
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    background-color: rgb(28, 34, 200);
+    
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+    
+    top:42%;
+    left:60%;
+}
+
+.slot9Image{
+    display: flex;
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    background-color: rgb(28, 34, 200);
+    
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+    
+    top:53%;
+    left:60%;
+}
+
+.slot10Image{
+    display: flex;
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    background-color: rgb(28, 34, 200);
+    
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+
+    
+    top:64%;
+    left:60%;
+}
+
+
+
